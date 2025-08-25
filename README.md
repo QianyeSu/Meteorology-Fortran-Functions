@@ -1,3 +1,4 @@
+[English](README.md) | [中文](README_zh.md)
 # Fortran Code Function Analysis
 
 ## 1. KolmSmir2.f [📝 src](fortran/KolmSmir2.f)
@@ -4536,5 +4537,7 @@ The files cover the following major functional areas:
 - Geographic coordinate transformations
 - Great circle calculations
 - Geophysical parameters
-#   M e t e o r o l o g y - F o r t r a n - F u n c t i o n s  
- 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
